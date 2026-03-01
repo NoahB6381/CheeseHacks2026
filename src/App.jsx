@@ -12,7 +12,7 @@ const NIC_ADMIN_ID = 'admin_nic';
 const PLAYER_ACCOUNTS = [
   { id: 1, name: 'Bucky Badger', username: '@bucky99', email: 'bucky@wisc.edu',  bio: 'Pass-first point guard.',           isAdmin: false },
   { id: 2, name: 'Paul Bolder', username: '@pbol',  email: 'pbolder@wisc.edu',  bio: 'Sharp shooter, 3-point specialist.', isAdmin: false },
-  { id: 3, name: 'Mike Torres',  username: '@miket',   email: 'mike@wisc.edu',   bio: 'Defensive stopper. Hustles every play.', isAdmin: false },
+  { id: 3, name: 'Noah Bauer',  username: '@nBauer',   email: 'nlbauer3@wisc.edu',   bio: 'Defensive stopper. Hustles every play.', isAdmin: false },
 ];
 
 // Admin account
